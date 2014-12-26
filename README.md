@@ -1,4 +1,4 @@
-whalewatcher
+WhaleWatcher
 ============
 
 将棋の検討用アプリです。  
@@ -6,4 +6,8 @@ whalewatcher
 
 ホームページはこちらです。  
 http://garnet-alice.net/whalewatcher/
-
+  
+  
+大合神クジラちゃん（イメージキャラクター）
+============
+![Alt text](https://github.com/ebifrier/WhaleWatcher/blob/master/image.png "大合神クジラちゃん")
