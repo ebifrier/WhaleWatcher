@@ -5,7 +5,7 @@ WhaleWatcher
 ソースは今のところ非公開ですが、バグトラッキングや要望管理に使っています。
 
 ホームページはこちらです。  
-http://garnet-alice.net/whalewatcher/
+http://garnet-alice.net/programs/whalewatcher/
   
   
 大合神クジラちゃん（イメージキャラクター）
